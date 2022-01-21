@@ -11,6 +11,8 @@ Hi 👋🏽 I'm an Automation and Artificial Intelligence Engineer who loves sol
 
 Awards 🎉 | US Digital Leader. Women of Color in STEM - Technology All Star Award Recipient. People Analytics World Speaker. Grace Hopper Women of Color in Tech Scholar. Society of Women Engineers Speaker. Distinguished Scholar and Honors level in Data Science for All fellowship.
 
+----
+
 Tolulade Ademisoye
 
 Tools💻: Power BI, Tableau, PostgreSQL and Python for Data Science/ML.
@@ -19,12 +21,14 @@ Certifications 🎓 | Microsoft Data Analyst, Certified Scrum Master, Tableau De
 
 
 Want to know more about Tolulade? Follow me on these socials 💬;
-- Twitter 
-- Linkedin
-- Subscribe to my Newsletter on AI & Data Strucrures etc
-- My Youtube Channel
-- Medium
+✨
+- [Twitter] (https://twitter.com/Tolulade_ato)
+- [Linkedin] (https://www.linkedin.com/in/tolulade-ademisoye-61560a5a/
+- [Subscribe to my Newsletter] (https://www.getrevue.co/profile/tolulade_ato) on AI & Data Strucrures etc 
+- [My Youtube Channel] (https://www.youtube.com/channel/UC5JjWtP3o9CcdyTxMXrtD-Q)
+- [Medium] (https://tolulade-ademisoye.medium.com/)
 
+⚡
 
 
 <!--
