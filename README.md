@@ -12,6 +12,12 @@ I have a combined 8 years experience in Industrial & Enterprise Software systems
 - 👯 I’m looking to collaborate on open-source and paid projects (i love building core applications for purpose-fit).
 
 
+**Proficient in:**
+
+- Setting up data systems & structures for enterprises
+- Natural Language Processing and Neural Networks approaches for bunsinesses
+- Proect Management & Data Architectures
+
 ---
 
 **Tolulade Ademisoye**
