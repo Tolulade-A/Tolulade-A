@@ -34,7 +34,7 @@ Want to know more about Tolulade? Follow me on **these socials** 💬;
 
 - [Twitter](https://twitter.com/Tolulade_ato)
 - [Linkedin](https://www.linkedin.com/in/tolulade-ademisoye-61560a5a/)
-- [Subscribe to my Newsletter](https://www.getrevue.co/profile/tolulade_ato) on AI & Data Strucrures etc 
+- [Subscribe to my Newsletter on AI & Data Structures etc ](https://www.getrevue.co/profile/tolulade_ato)
 - [My Youtube Channel](https://www.youtube.com/channel/UC5JjWtP3o9CcdyTxMXrtD-Q)
 - [Medium](https://tolulade-ademisoye.medium.com/)
 
