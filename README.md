@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-Hi 👋🏽 I'm an Automation and Artificial Intelligence Engineer who loves solving complex problems in a simplified approached. Am also building at Reispar Technologies, an Artificial Intelligence & Enterprise ML startup in Lagos. Started out as an Industrial/Mechanical Engineer who specialised in Mechnaical, Power & Energy systems before going fully into Industrial & Automations.
+Hi 👋🏽 I'm an Automation and Artificial Intelligence Engineer who loves solving complex problems in a simplified approach. Am also building at Reispar Technologies, an Artificial Intelligence & Enterprise ML startup in Lagos. Started out as an Industrial/Mechanical Engineer who specialised in Mechnaical, Power & Energy systems before going fully into Industrial & Automations.
 
 I have a combined 8 years experience in the Industrial & Enterprise Software systems, worked on a couple of Engineering Procurement Construction Intsallation & Modular projects during these years. Previously, led a startup (2018) in Lagos as Chief Operating Officer where I managed both engineeting and operations.
 
