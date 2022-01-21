@@ -25,7 +25,7 @@ I have a combined **8 years experience in Industrial & Enterprise Software syste
 Tools💻: Power BI, Tableau, PostgreSQL and Python for Data Science/ML.
 
 
-![Tolulade Ademisoye YouTube Banner](https://user-images.githubusercontent.com/22460844/150507055-94fb24ea-8d87-41ac-a08d-a23bc80d6371.png)
+![Ship early](https://user-images.githubusercontent.com/22460844/150511770-a408eb6f-629f-40d6-80f4-70eaf05b0efc.png)
 
 
 Want to know more about Tolulade? Follow me on **these socials** 💬;
