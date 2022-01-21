@@ -1,5 +1,15 @@
 ### Hi there, Meet Tolulade Ademisoye  👋
 
+
+Here are some ideas to get you started:
+
+Hi 👋🏽 I'm an Automation and Artificial Intelligence Engineer who loves solving complex problems in a simplified approached. Am also building at Reispar Technologies, an Artificial Intelligence & Enterprise ML startup in Lagos. Started out as an Industrial/Mechanical Engineer who specialised in Mechnaical, Power & Energy systems before going fully into Industrial & Automations.
+
+- 🌱 I’m currently learning ...
+
+
+
+
 <!--
 **Reispar/Reispar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
