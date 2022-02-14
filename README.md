@@ -11,15 +11,14 @@ I have a combined **8 years experience in Industrial & Enterprise Software syste
 - 💬 Ask me about Power systems, Machine Learning for Industrial Applications, how to set-up core data systems & structures for enterprises and lots more.
 - 👯 I’m looking to collaborate on open-source and paid projects (i love building core applications for purpose-fit).
 - 🔭 I’m currently working on **big data analytics with Pyspark (Apache)** & Python.
+- ⚡ Fun fact: Lover of Neural Networks & Natural Language Processing
 
----
-I'll be facilitating a **Masterclass session on -Practical AI Systems & Data Integration for Businesses** @ Africa Nxt (Social Media Week Lagos): **March 4th, 2022**
-Signup [here](https://emamo.com/event/africanxt2022/s/practical-ai-systems-data-integration-for-businesses-new-approaches-to-scaling-WeQyKW) 
+
 
 **Proficient in:**
 
 - Setting up data systems & structures for enterprises
-- Natural Language Processing and Neural Networks approaches for bunsinesses
+- Anomaly detection & AI Simplification approaches for bunsinesses
 - Proect Management & Data Architectures
 
 ---
@@ -43,6 +42,14 @@ Want to know more about Tolulade? Follow me on **these socials** 💬;
 - [Medium](https://tolulade-ademisoye.medium.com/)
 
 ⚡
+
+---
+**Speaking Engagements:**
+ 
+- I'll be facilitating a **Masterclass session on -Practical AI Systems & Data Integration for Businesses** @ Africa Nxt (Social Media Week Lagos): **March 4th, 2022**
+Signup [here](https://emamo.com/event/africanxt2022/s/practical-ai-systems-data-integration-for-businesses-new-approaches-to-scaling-WeQyKW) 
+- Currently facilitating an 8 weeks **Technical & Business Data Analytics Masterclass for Executives & Analysts** at Covenant University Jan-Feb, 2022
+
 
 
 <!--
