@@ -10,7 +10,10 @@ I have a combined **8 years experience in Industrial & Enterprise Software syste
 - 🌱 I’m currently learning about vectors in NLP & ML model deployments in real-time.
 - 💬 Ask me about Power systems, Machine Learning for Industrial Applications, how to set-up core data systems & structures for enterprises and lots more.
 - 👯 I’m looking to collaborate on open-source and paid projects (i love building core applications for purpose-fit).
+- 🔭 I’m currently working on **big data analytics with Pyspark (Apache)** & Python.
 
+I'll be facilitating a **Masterclass session on -Practical AI Systems & Data Integration for Businesses** @ Africa Nxt (Social Media Week Lagos): **March 4th, 2022*
+Signup [here](https://emamo.com/event/africanxt2022/s/practical-ai-systems-data-integration-for-businesses-new-approaches-to-scaling-WeQyKW) 
 
 **Proficient in:**
 
