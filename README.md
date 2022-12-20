@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-Hi 👋🏽 I’m an engineer who loves to simplify complex processes for people and businesses. I'm also building at **Reispar Technologies**, an Artificial Intelligence & Enterprise ML startup in Lagos. I started out as an Industrial/Mechanical Engineer who specialised in Mechanical, Power & Energy systems before going fully into Industrial & Artificial Intelligence applications.
+Hi 👋🏽 I’m an engineer who loves to simplify complex processes for people and businesses. I’m also building at **Reispar Technologies**, an Artificial Intelligence & Enterprise ML startup in Lagos. Do you know that I started out as an Industrial/Mechanical Engineer before going fully into **Artificial Intelligence applications?** Yes 😊
 
-I have a combined **7 years experience in Industrial & Enterprise Software systems**, worked on a couple of Engineering Procurement Construction Installation & Modular projects during these years. Previously, led a startup (2018) in Lagos as Chief Operating Officer where I managed both engineering and operations.
+I have a combined 7 **years experience in building systems that work**, working capital projects of over $10 million USD. Previously, I led a startup (2018) in Lagos as Chief Operating Officer where I managed both engineering and operations. Would [love to connect with you :)](https://www.linkedin.com/in/tolulade-ademisoye-61560a5a/)
 
 - 🌱 I’m currently learning about Large language models & feature engineering for tabular data.
 - 💬 Ask me about Power systems, Machine Learning for Industrial Applications, how to set-up core data systems & structures for enterprises and lots more.
