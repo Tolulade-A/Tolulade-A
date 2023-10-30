@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-Hi 👋🏽 I’m an engineer who loves to simplify complex processes for people and businesses. I’m also building at **Reispar Technologies**, an Artificial Intelligence & Enterprise ML startup in Lagos. Do you know that I started out as an Industrial/Mechanical Engineer before going fully into **Artificial Intelligence applications?** Yes 😊
+Hi 👋🏽 I’m an engineer who loves to simplify complex processes for people and businesses. Do you know that I started out as an Industrial/Mechanical Engineer before going fully into **Artificial Intelligence applications?** Yes 😊
 
 I have a combined 7 **years experience in building systems that work**, working capital projects of over $10 million USD. Previously, I led a startup (2018) in Lagos as Chief Operating Officer where I managed both engineering and operations. Would [love to connect with you :)](https://www.linkedin.com/in/tolulade-ademisoye-61560a5a/)
 
