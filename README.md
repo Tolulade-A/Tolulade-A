@@ -46,10 +46,8 @@ Want to know more about Tolulade? Follow me on **these socials** 💬;
 
 ---
 **Speaking Engagements:**
-- I'm speaking at a **Masterclass session on -Applying Big Data Analytics IN CLIMATE CHANGE RESEARCH: To Impact The AFRICAN ENERGY MARKET** @ Africa Nxt (formerly Social Media Week Lagos): **February 6th, 2023**
-View [here](https://africanxt.sched.com/event/1Fj1H?iframe=no)  
+- I'm speaking at a **Masterclass session on -Applying Big Data Analytics IN CLIMATE CHANGE RESEARCH: To Impact The AFRICAN ENERGY MARKET** @ Africa Nxt (formerly Social Media Week Lagos): **February 6th, 2023** 
 - I facilitated a **Masterclass session on -Practical AI Systems & Data Integration for Businesses** @ Africa Nxt (Social Media Week Lagos): **March 4th, 2022**
-View [here](https://emamo.com/event/africanxt2022/s/practical-ai-systems-data-integration-for-businesses-new-approaches-to-scaling-WeQyKW) 
 - Also facilitated an 8 weeks **Technical & Business Data Analytics Masterclass for Executives & Analysts** at Covenant University Jan-Feb, 2022
 
 
