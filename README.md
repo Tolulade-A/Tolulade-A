@@ -1,33 +1,66 @@
-### Hi there, Meet Tolulade Ademisoye  👋
+## 👋 Hi, I'm Tolulade Ademisoye
 
+### Data Engineer | AI & ML Engineering | Backend Specialist
 
-Here are some ideas to get you started:
+I'm a software data/AI engineer passionate about simplifying complex technology for businesses and people. Originally starting as an Industrial/Mechanical Engineer, I’ve transitioned into building scalable data and AI systems—combining robust engineering principles with the agile thinking needed in artificial intelligence and backend software. I bring ideas to life 😊!
 
-Hi 👋🏽 I’m an engineer who loves to simplify complex processes for people and businesses. Do you know that I started out as an Industrial/Mechanical Engineer before going fully into **Artificial Intelligence applications?** Yes 😊
+***
 
-I have a combined 7 **years experience in building systems that work**, working capital projects of over $10 million USD. Previously, I led a startup (2018) in Lagos as Chief Operating Officer where I managed both engineering and operations. Would [love to connect with you :)](https://www.linkedin.com/in/tolulade-ademisoye-61560a5a/)
+### 🔦 What I Do
 
-- 🌱 I’m currently learning about Large language models & feature engineering for tabular data.
-- 💬 Ask me about Power systems, Machine Learning for Industrial Applications, how to set-up core data systems & structures for enterprises and lots more.
-- 👯 I’m looking to collaborate on open-source and paid projects (i love building core applications for purpose-fit).
-- 🔭 I’ve previously worked on **big data analytics with Pyspark (Apache)** & Python.
-- 🔭 I’m currently working on **AI Chatbots** using language models.
-- ⚡ Fun fact: Lover of Neural Networks, Big Data Analytics & Natural Language Processing
+- **Data & AI Engineering:** Building intelligent data pipelines, backend systems, and deploying end-to-end ML and AI solutions using tools like Python, Django, OpenAI, Claude, Gemini LLM, and more.
+- **Software & Backend Engineering:** Experienced with Django, Flask, Next.js, and React.js applications, with deployments on AWS, Azure, Koyeb, GCP etc.
+- **Database & Product Analytics:** PostgreSQL, DBeaver, database indexing, Power BI, and product analytics with PostHog.
+- **Workflow & Ops:** Expertise in Celery tasks, OpenSearch for search and analytics, Redis for caching, and AWS Data Glue for data quality.
+- **DevOps:** Efficient deployments and system engineering for scalable enterprise applications.
 
+***
 
+### 🏆 Career Highlights
 
-**Proficient in:**
+- Over 7 years of experience engineering systems for organisations, leading both technical and operational teams.
+- Led high-impact capital projects (> $10 million) and previously served as Chief Operating Officer at a Lagos-based startup, managing cross-disciplinary teams.
+- Hands-on with big data analytics (PySpark) and delivering reliable, production-grade machine learning and AI deployments.
 
-- Setting up data systems & structures for enterprises
-- Anomaly detection & AI Simplification approaches for bunsinesses
-- Proect Management & Data Architectures
+***
 
----
+### 🌱 Currently Exploring
 
-**Tolulade Ademisoye**
+- ⚡ Large language models (LLMs) and feature engineering for structured/tabular data.
+- ⚡ Building, fine-tuning, and deploying AI products using the latest breakthroughs in natural language processing.
+- ⚡ Building an employee retention & application software for companies, **Semis**.
 
-Tools💻: Ms Project Professional, PySpark, Django, Power BI, Tableau, PostgreSQL and Python for Data Science/ML.
+***
 
+### 📬 Connect & Collaborate
+
+- 👯 Open to open-source and paid collaborations—in particular, purpose-fit application builds and core backend/data projects.
+- 🔭 Reach out to discuss all things power systems, industrial ML, setting up robust enterprise data structures, or making AI approachable for business.
+
+***
+
+### 💬 Fun Facts
+
+- A lover of data flows, system design, neural networks, big data analytics, and demystifying machine learning for real-world impact.
+- Passionate about anomaly detection and creating software that powers real business transformation.
+
+***
+
+### ⚒️ Tech Stack Tools💻
+
+- **Languages:** Python, PostgreSQL
+- **Frameworks:** Django, Next.js, React.js, PySpark
+- **AI/ML:** OpenAI, Claude, Gemini LLM, PySpark, DataOps
+- **Data:** PostgreSQL, DBeaver, Redis, OpenSearch, AWS Glue
+- **Analytics:** PostHog
+- **Cloud & DevOps:** AWS, Azure, GCP, Koyeb, Upstash
+- **Workflow & Orchestration:** Celery, MLOPs, API Design
+
+***
+
+### 📌 Notable Projects
+
+- Check out the portfolio for data pipelines, production ML, analytics dashboards, and more.
 
 ![Ship early](https://user-images.githubusercontent.com/22460844/150511770-a408eb6f-629f-40d6-80f4-70eaf05b0efc.png)
 
