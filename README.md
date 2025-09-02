@@ -4,7 +4,6 @@
 
 I'm a software data/AI engineer passionate about simplifying complex technology for businesses and people. Originally starting as an Industrial/Mechanical Engineer, I’ve transitioned into building scalable data and AI systems—combining robust engineering principles with the agile thinking needed in artificial intelligence and backend software. I bring ideas to life 😊!
 
-***
 
 ### 🔦 What I Do
 
@@ -14,7 +13,6 @@ I'm a software data/AI engineer passionate about simplifying complex technology 
 - **Workflow & Ops:** Expertise in Celery tasks, OpenSearch for search and analytics, Redis for caching, and AWS Data Glue for data quality.
 - **DevOps:** Efficient deployments and system engineering for scalable enterprise applications.
 
-***
 
 ### 🏆 Career Highlights
 
@@ -30,14 +28,12 @@ I'm a software data/AI engineer passionate about simplifying complex technology 
 - ⚡ Building, fine-tuning, and deploying AI products using the latest breakthroughs in natural language processing.
 - ⚡ Building an employee retention & application software for companies, **Semis**.
 
-***
 
 ### 📬 Connect & Collaborate
 
 - 👯 Open to open-source and paid collaborations—in particular, purpose-fit application builds and core backend/data projects.
 - 🔭 Reach out to discuss all things power systems, industrial ML, setting up robust enterprise data structures, or making AI approachable for business.
 
-***
 
 ### 💬 Fun Facts
 
